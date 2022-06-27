@@ -19,7 +19,7 @@ To create a new url, send a POST request to /api with the following headers:
 | Content-Type | application/json |
 | Authorization | Basic \<API-KEY> |
 
-Where API-KEY is the key you set in the environment variables
+Where \<API-KEY> is the key you set in the environment variables
 
 The body should be json and look and follow this format:
 
